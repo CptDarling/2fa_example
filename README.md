@@ -2,8 +2,7 @@
 
 ## Install
 ```sh
-  cd 2fa-example
-  npm install
+npm install
 ```
 
 ## Run
